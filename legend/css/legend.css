@@ -2,7 +2,7 @@
 * @Author: banjiajia
 * @Date:   2019-03-06 09:11:18
 * @Last Modified by:   banjiajia
-* @Last Modified time: 2019-03-06 17:14:58
+* @Last Modified time: 2019-03-06 17:43:59
 */
 body {
   background: url("../../img/background.png");
@@ -64,6 +64,8 @@ body {
 .legend_cen img {
   width: 100%;
   display: block;
+  max-width: 1903px;
+  margin: auto;
 }
 
 /*# sourceMappingURL=legend.css.map */

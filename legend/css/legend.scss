@@ -2,7 +2,7 @@
 * @Author: banjiajia
 * @Date:   2019-03-06 09:11:18
 * @Last Modified by:   banjiajia
-* @Last Modified time: 2019-03-06 17:14:58
+* @Last Modified time: 2019-03-06 17:43:59
 */
 
 body{
@@ -57,7 +57,9 @@ body{
 	width: 100%;
 	img{
 		width: 100%;
-		display: block;	
+	    display: block;
+	    max-width: 1903px;
+	    margin: auto;
 	}
 }
 
@@ -68,6 +70,7 @@ body{
 // 	overflow: hidden;
 // 	position: relative;	
 // 	img{
+// 		width: 100%;
 // 		min-width: 1903px;
 // 		position: relative;
 // 		left: 50%;
